@@ -1,2 +1,0 @@
-# somador-FrontEnd
-somador 
