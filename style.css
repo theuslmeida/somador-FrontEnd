@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(82, 77, 77);
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+input{
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+}
+label{
+    color: rgb(0, 0, 0);
+}
+#blocoum{
+    background-color: rgb(0, 245, 253);
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    
+}
+button{
+    color: rgb(0, 0, 0);
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-left: 30px;
+  
+}
+#namberum{
+    flex-direction: column;
+    margin-top: 100px;
+    align-items: center;
+    background-color:black
+
+}
+#namberdois{
+    flex-direction: column;
+    margin-top: 50px;
+}
+#numbertres{
+    flex-direction: column;
+    margin-top: 50px;
+}
+#numberquatro{
+    flex-direction: column;
+    margin-top: 50px;
+}
